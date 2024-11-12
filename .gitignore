@@ -1,8 +1,8 @@
 __pycache__/
 myenv/
-keita-436719-702150737108.json
+#keita-436719-702150737108.json
 # Ignorer le fichier .env qui contient des informations sensibles
-.env
+#.env
 
 
 # Ignorer les fichiers contenant des mots de passe, emails ou numéros de téléphone
