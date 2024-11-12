@@ -1,18 +1,1 @@
-__pycache__/
-myenv/
-#keita-436719-702150737108.json
-# Ignorer le fichier .env qui contient des informations sensibles
-#.env
 
-
-# Ignorer les fichiers contenant des mots de passe, emails ou numéros de téléphone
-passwords.txt
-contacts.txt
-
-# Ignorer les fichiers temporaires ou de log
-*.log
-*.tmp
-
-# Ignorer les fichiers spécifiques à un IDE
-.vscode/
-.idea/
